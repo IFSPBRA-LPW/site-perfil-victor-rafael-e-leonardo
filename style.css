@@ -334,16 +334,16 @@ footer {
     }
 
     .apresentacao {
-        order: 3;
-        margin-top: 2rem;
+        order: -1;
+        margin-top: 0;
     }
 
     .detalhes {
-        order: 1;
+        order: 0;
     }
 
     .sobre-mim {
-        order: 2;
+        order: 1;
     }
 
     .foto-container {
@@ -364,4 +364,3 @@ footer {
         font-size: 0.9rem;
     }
 }
-
